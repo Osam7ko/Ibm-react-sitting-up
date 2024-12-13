@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ibm-react-sitting-up/static/css/main.9f86d92d.css",
+    "main.js": "/Ibm-react-sitting-up/static/js/main.d6a8e9a7.js",
+    "static/js/488.826b3191.chunk.js": "/Ibm-react-sitting-up/static/js/488.826b3191.chunk.js",
+    "index.html": "/Ibm-react-sitting-up/index.html",
+    "main.9f86d92d.css.map": "/Ibm-react-sitting-up/static/css/main.9f86d92d.css.map",
+    "main.d6a8e9a7.js.map": "/Ibm-react-sitting-up/static/js/main.d6a8e9a7.js.map",
+    "488.826b3191.chunk.js.map": "/Ibm-react-sitting-up/static/js/488.826b3191.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f86d92d.css",
+    "static/js/main.d6a8e9a7.js"
+  ]
+}
